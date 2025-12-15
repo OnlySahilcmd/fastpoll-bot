@@ -1,21 +1,32 @@
+# ⚡ FastPoll — Discord Polling Bot
 
-# ⚡ FastPoll Discord Bot (Complete Project)
+FastPoll is a modern, lightweight Discord polling bot designed for **instant decision-making** inside servers.  
+Built with **discord.js v14**, FastPoll focuses on **speed, simplicity, and privacy**.
 
-## Requirements
-- Node.js 18 or 20 LTS
-- Discord Bot Token
-- Discord Application Client ID
+> **Vote faster. Decide smarter.**
 
-## Setup
-1. npm install
-2. Fill .env
-3. node src/deploy-commands.js
-4. node src/index.js
+---
 
-## Commands
-/poll
-/about
-/status
-/privacy
-/permissions
-/premium
+## 🚀 Features
+
+- ⚡ Slash command–based polls
+- 🔘 Button-based voting system
+- 📊 Clean, readable poll embeds
+- 🔐 Minimal permissions (no admin access)
+- 👤 One-vote-per-user protection
+- 🌍 Global slash commands
+- 🛡️ Privacy-first design
+- ✅ Discord verification-ready architecture
+
+---
+
+## 📦 Tech Stack
+
+- **Node.js** (18 / 20 LTS recommended)
+- **discord.js** v14+
+- **dotenv** (environment management)
+- **Git & GitHub** (version control)
+
+
+
+
